@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # Implementation-of-Linear-and-Polynomial-Regression-Models-for-Predicting-Car-Prices
 
 ## AIM:
